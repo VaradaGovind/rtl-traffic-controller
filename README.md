@@ -61,5 +61,5 @@ The controller utilizes a **Moore Machine** architecture where outputs depend so
 ├── tb
 │   └── controller_tb.v    # Testbench with emergency scenarios
 ├── docs
-│   └── waveform.png       # Simulation output
+│   └── Testbench.png       # Simulation output
 └── README.md
